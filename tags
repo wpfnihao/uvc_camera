@@ -1,0 +1,698 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	193;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	196;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	199;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	202;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	206;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	181;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	184;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	187;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	190;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	194;"	d	file:
+CMAKE_BINARY_DIR	build/Makefile	/^CMAKE_BINARY_DIR = \/opt\/ros\/fuerte\/stacks\/camera_umd\/uvc_camera\/build$/;"	m
+CMAKE_COMMAND	build/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	build/Makefile	/^CMAKE_SOURCE_DIR = \/opt\/ros\/fuerte\/stacks\/camera_umd\/uvc_camera$/;"	m
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	10;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	13;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	16;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	19;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	22;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	25;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	28;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	32;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	34;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	36;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	40;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	43;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	46;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	49;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	52;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	55;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	58;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	61;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	66;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	77;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	80;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	86;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	89;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	92;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	12;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	18;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	30;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	34;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	36;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	38;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	42;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	45;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	48;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	51;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	54;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	57;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	60;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	68;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	74;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	77;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	80;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	9;"	d	file:
+CSU32	include/uvc_cam/uvc_cam.h	51;"	d
+Cam	include/uvc_cam/uvc_cam.h	/^  Cam(const char *device, mode_t _mode = MODE_RGB,$/;"	p	class:uvc_cam::Cam	access:public	signature:(const char *device, mode_t _mode = MODE_RGB, int _width = 640, int _height = 480, int _fps = 30)
+Cam	include/uvc_cam/uvc_cam.h	/^  Cam(const char *device, mode_t _mode,$/;"	p	class:uvc_cam::Cam	access:public	signature:(const char *device, mode_t _mode, int _width, int _height, int _fps, int _autoPriority, int _autoExposure, int _brightness, int _contrast, int _whiteBalanceTempAuto, int _whiteBalanceTemp, int _powerFreq, int _gain, int _sharpness, int _blacklightCompen, int _absolute, int _led1mode, int _led1Freq, int _saturation, int _focus)
+Cam	include/uvc_cam/uvc_cam.h	/^class Cam$/;"	c	namespace:uvc_cam
+Cam	src/uvc_cam.cpp	/^Cam::Cam(const char *_device, mode_t _mode, int _width, int _height, int _fps)$/;"	f	class:Cam	signature:(const char *_device, mode_t _mode, int _width, int _height, int _fps)
+Cam	src/uvc_cam.cpp	/^Cam::Cam(const char *_device, mode_t _mode, int _width, int _height, int _fps, int _autoPriority, int _autoExposure, int _brightness, int _contrast, int _whiteBalanceTempAuto, int _whiteBalanceTemp, int _powerFreq, int _gain, int _sharpness, int _blacklightCompen, int _absolute, int _led1mode, int _led1Freq, int _saturation, int _focus)$/;"	f	class:Cam	signature:(const char *_device, mode_t _mode, int _width, int _height, int _fps, int _autoPriority, int _autoExposure, int _brightness, int _contrast, int _whiteBalanceTempAuto, int _whiteBalanceTemp, int _powerFreq, int _gain, int _sharpness, int _blacklightCompen, int _absolute, int _led1mode, int _led1Freq, int _saturation, int _focus)
+Cam::Cam	src/uvc_cam.cpp	/^Cam::Cam(const char *_device, mode_t _mode, int _width, int _height, int _fps)$/;"	f	class:Cam	signature:(const char *_device, mode_t _mode, int _width, int _height, int _fps)
+Cam::Cam	src/uvc_cam.cpp	/^Cam::Cam(const char *_device, mode_t _mode, int _width, int _height, int _fps, int _autoPriority, int _autoExposure, int _brightness, int _contrast, int _whiteBalanceTempAuto, int _whiteBalanceTemp, int _powerFreq, int _gain, int _sharpness, int _blacklightCompen, int _absolute, int _led1mode, int _led1Freq, int _saturation, int _focus)$/;"	f	class:Cam	signature:(const char *_device, mode_t _mode, int _width, int _height, int _fps, int _autoPriority, int _autoExposure, int _brightness, int _contrast, int _whiteBalanceTempAuto, int _whiteBalanceTemp, int _powerFreq, int _gain, int _sharpness, int _blacklightCompen, int _absolute, int _led1mode, int _led1Freq, int _saturation, int _focus)
+Cam::enumerate	src/uvc_cam.cpp	/^void Cam::enumerate()$/;"	f	class:Cam	signature:()
+Cam::grab	src/uvc_cam.cpp	/^int Cam::grab(unsigned char **frame, uint32_t &bytes_used)$/;"	f	class:Cam	signature:(unsigned char **frame, uint32_t &bytes_used)
+Cam::release	src/uvc_cam.cpp	/^void Cam::release(unsigned buf_idx)$/;"	f	class:Cam	signature:(unsigned buf_idx)
+Cam::set_control	src/uvc_cam.cpp	/^void Cam::set_control(uint32_t id, int val)$/;"	f	class:Cam	signature:(uint32_t id, int val)
+Cam::set_motion_thresholds	src/uvc_cam.cpp	/^void Cam::set_motion_thresholds(int lum, int count)$/;"	f	class:Cam	signature:(int lum, int count)
+Cam::~Cam	src/uvc_cam.cpp	/^Cam::~Cam()$/;"	f	class:Cam	signature:()
+Camera	include/uvc_camera/camera.h	/^    Camera(ros::NodeHandle comm_nh, ros::NodeHandle param_nh);$/;"	p	class:uvc_camera::Camera	access:public	signature:(ros::NodeHandle comm_nh, ros::NodeHandle param_nh)
+Camera	include/uvc_camera/camera.h	/^class Camera {$/;"	c	namespace:uvc_camera
+Camera	src/camera.cpp	/^Camera::Camera(ros::NodeHandle _comm_nh, ros::NodeHandle _param_nh) :$/;"	f	class:uvc_camera::Camera	signature:(ros::NodeHandle _comm_nh, ros::NodeHandle _param_nh)
+CameraNodelet	src/nodelets.cpp	/^    CameraNodelet() {}$/;"	f	class:uvc_camera::CameraNodelet	access:public	signature:()
+CameraNodelet	src/nodelets.cpp	/^class CameraNodelet : public nodelet::Nodelet {$/;"	c	namespace:uvc_camera	file:	inherits:nodelet::Nodelet
+ID_VOID_MAIN	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	6;"	d	file:
+MJPG	src/camera.cpp	/^	std::string MJPG = "MJPG";$/;"	l
+MODE_MJPG	include/uvc_cam/uvc_cam.h	/^  enum mode_t { MODE_RGB, MODE_MJPG, MODE_YUYV } mode;$/;"	e	enum:uvc_cam::Cam::mode_t
+MODE_RGB	include/uvc_cam/uvc_cam.h	/^  enum mode_t { MODE_RGB, MODE_MJPG, MODE_YUYV } mode;$/;"	e	enum:uvc_cam::Cam::mode_t
+MODE_YUYV	include/uvc_cam/uvc_cam.h	/^  enum mode_t { MODE_RGB, MODE_MJPG, MODE_YUYV } mode;$/;"	e	enum:uvc_cam::Cam::mode_t
+NUM_BUFFER	include/uvc_cam/uvc_cam.h	/^  static const unsigned NUM_BUFFER = 2;$/;"	m	class:uvc_cam::Cam	access:private
+NodeHandle	src/camera_node.cpp	/^  uvc_camera::Camera camera(ros::NodeHandle(), ros::NodeHandle("~"));$/;"	p	file:	signature:()
+NodeHandle	src/stereo_node.cpp	/^  uvc_camera::StereoCamera stereo(ros::NodeHandle(), ros::NodeHandle("~"));$/;"	p	file:	signature:()
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	104;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	107;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	110;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	113;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	116;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	119;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	122;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	125;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	128;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	131;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	134;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	137;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	140;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	146;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	149;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	152;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	155;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	158;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	161;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	164;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	167;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	170;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	173;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	176;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	179;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	182;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	101;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	107;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	110;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	113;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	116;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	122;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	128;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	134;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	140;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	143;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	149;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	152;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	155;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	158;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	161;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	164;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	167;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	170;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	92;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	95;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+RGB	src/camera.cpp	/^ 	std::string RGB  = "RGB";$/;"	l
+RM	build/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+SHELL	build/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SUFFIXES	build/Makefile	/^SUFFIXES =$/;"	m
+StereoCamera	include/uvc_camera/stereocamera.h	/^    StereoCamera(ros::NodeHandle comm_nh, ros::NodeHandle param_nh);$/;"	p	class:uvc_camera::StereoCamera	access:public	signature:(ros::NodeHandle comm_nh, ros::NodeHandle param_nh)
+StereoCamera	include/uvc_camera/stereocamera.h	/^class StereoCamera {$/;"	c	namespace:uvc_camera
+StereoCamera	src/stereo.cpp	/^StereoCamera::StereoCamera(ros::NodeHandle comm_nh, ros::NodeHandle param_nh) :$/;"	f	class:uvc_camera::StereoCamera	signature:(ros::NodeHandle comm_nh, ros::NodeHandle param_nh)
+StereoNodelet	src/nodelets.cpp	/^    StereoNodelet() {}$/;"	f	class:uvc_camera::StereoNodelet	access:public	signature:()
+StereoNodelet	src/nodelets.cpp	/^class StereoNodelet : public nodelet::Nodelet {$/;"	c	namespace:uvc_camera	file:	inherits:nodelet::Nodelet
+UVC_CAM_H	include/uvc_cam/uvc_cam.h	23;"	d
+UVC_CTRL_DATA_TYPE_BITMASK	include/uvc_cam/uvc_cam.h	/^  CSU32 UVC_CTRL_DATA_TYPE_BITMASK = 5;$/;"	m	class:uvc_cam::Cam	access:private
+UVC_CTRL_DATA_TYPE_BOOLEAN	include/uvc_cam/uvc_cam.h	/^  CSU32 UVC_CTRL_DATA_TYPE_BOOLEAN = 3;$/;"	m	class:uvc_cam::Cam	access:private
+UVC_CTRL_DATA_TYPE_ENUM	include/uvc_cam/uvc_cam.h	/^  CSU32 UVC_CTRL_DATA_TYPE_ENUM = 4;$/;"	m	class:uvc_cam::Cam	access:private
+UVC_CTRL_DATA_TYPE_RAW	include/uvc_cam/uvc_cam.h	/^  CSU32 UVC_CTRL_DATA_TYPE_RAW = 0;$/;"	m	class:uvc_cam::Cam	access:private
+UVC_CTRL_DATA_TYPE_SIGNED	include/uvc_cam/uvc_cam.h	/^  CSU32 UVC_CTRL_DATA_TYPE_SIGNED	= 1;$/;"	m	class:uvc_cam::Cam	access:private
+UVC_CTRL_DATA_TYPE_UNSIGNED	include/uvc_cam/uvc_cam.h	/^  CSU32 UVC_CTRL_DATA_TYPE_UNSIGNED	= 2;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_BACKLIGHT_COMPENSATION_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_BACKLIGHT_COMPENSATION_NEW = V4L2_CID_BASE_NEW + 28;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_BACKLIGHT_COMPENSATION_OLD	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_BACKLIGHT_COMPENSATION_OLD = V4L2_CID_PRIVATE_BASE_OLD + 0;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_BASE_EXTCTR	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_BASE_EXTCTR = 0x0A046D01;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_BASE_LOGITECH	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_BASE_LOGITECH = V4L2_CID_BASE_EXTCTR;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_BASE_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_BASE_NEW = V4L2_CTRL_CLASS_USER_NEW | 0x900;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_CAMERA_CLASS_BASE_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_CAMERA_CLASS_BASE_NEW = V4L2_CTRL_CLASS_CAMERA_NEW | 0x900;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_CAMERA_CLASS_LAST	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_CAMERA_CLASS_LAST = V4L2_CID_CAMERA_CLASS_BASE_NEW + 13;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_DISABLE_PROCESSING_LOGITECH	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_DISABLE_PROCESSING_LOGITECH = V4L2_CID_BASE_LOGITECH + 0x70;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_EXPOSURE_ABSOLUTE_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_EXPOSURE_ABSOLUTE_NEW = V4L2_CID_CAMERA_CLASS_BASE_NEW + 2;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_EXPOSURE_ABSOLUTE_OLD	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_EXPOSURE_ABSOLUTE_OLD = V4L2_CID_PRIVATE_BASE_OLD + 11;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_EXPOSURE_AUTO_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_EXPOSURE_AUTO_NEW = V4L2_CID_CAMERA_CLASS_BASE_NEW + 1;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_EXPOSURE_AUTO_OLD	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_EXPOSURE_AUTO_OLD = V4L2_CID_PRIVATE_BASE_OLD + 10;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_EXPOSURE_AUTO_PRIORITY_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_EXPOSURE_AUTO_PRIORITY_NEW = V4L2_CID_CAMERA_CLASS_BASE_NEW+3;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_FOCUS_ABSOLUTE_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_FOCUS_ABSOLUTE_NEW = V4L2_CID_CAMERA_CLASS_BASE_NEW + 10;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_FOCUS_ABSOLUTE_OLD	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_FOCUS_ABSOLUTE_OLD = V4L2_CID_PRIVATE_BASE_OLD + 5;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_FOCUS_AUTO_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_FOCUS_AUTO_NEW = V4L2_CID_CAMERA_CLASS_BASE_NEW + 12;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_FOCUS_AUTO_OLD	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_FOCUS_AUTO_OLD = V4L2_CID_PRIVATE_BASE_OLD + 4;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_FOCUS_LOGITECH	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_FOCUS_LOGITECH = V4L2_CID_BASE_LOGITECH + 3;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_FOCUS_RELATIVE_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_FOCUS_RELATIVE_NEW = V4L2_CID_CAMERA_CLASS_BASE_NEW + 11;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_FOCUS_RELATIVE_OLD	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_FOCUS_RELATIVE_OLD = V4L2_CID_PRIVATE_BASE_OLD + 6;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_HUE_AUTO_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_HUE_AUTO_NEW = V4L2_CID_BASE_NEW + 25;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_HUE_AUTO_OLD	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_HUE_AUTO_OLD = V4L2_CID_PRIVATE_BASE_OLD + 3;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_LAST_EXTCTR	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_LAST_EXTCTR = V4L2_CID_RAW_BITS_PER_PIXEL_LOGITECH;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_LAST_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_LAST_NEW = V4L2_CID_BASE_NEW + 29;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_LED1_FREQUENCY_LOGITECH	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_LED1_FREQUENCY_LOGITECH = V4L2_CID_BASE_LOGITECH + 5;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_LED1_MODE_LOGITECH	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_LED1_MODE_LOGITECH = V4L2_CID_BASE_LOGITECH + 4;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_PANTILT_RESET_LOGITECH	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_PANTILT_RESET_LOGITECH = V4L2_CID_BASE_LOGITECH + 2;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_PANTILT_RESET_OLD	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_PANTILT_RESET_OLD = V4L2_CID_PRIVATE_BASE_OLD + 9;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_PAN_ABSOLUTE_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_PAN_ABSOLUTE_NEW = V4L2_CID_CAMERA_CLASS_BASE_NEW + 8;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_PAN_RELATIVE_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_PAN_RELATIVE_NEW = V4L2_CID_CAMERA_CLASS_BASE_NEW + 4;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_PAN_RELATIVE_OLD	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_PAN_RELATIVE_OLD = V4L2_CID_PRIVATE_BASE_OLD + 7;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_PAN_RESET_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_PAN_RESET_NEW = V4L2_CID_CAMERA_CLASS_BASE_NEW + 6;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_POWER_LINE_FREQUENCY_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_POWER_LINE_FREQUENCY_NEW = V4L2_CID_BASE_NEW + 24;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_POWER_LINE_FREQUENCY_OLD	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_POWER_LINE_FREQUENCY_OLD = V4L2_CID_PRIVATE_BASE_OLD + 1;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_PRIVATE_BASE_OLD	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_PRIVATE_BASE_OLD = 0x08000000;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_PRIVATE_LAST	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_PRIVATE_LAST = V4L2_CID_WHITE_BALANCE_TEMP_OLD + 1;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_RAW_BITS_PER_PIXEL_LOGITECH	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_RAW_BITS_PER_PIXEL_LOGITECH = V4L2_CID_BASE_LOGITECH + 0x71;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_SHARPNESS_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_SHARPNESS_NEW = V4L2_CID_BASE_NEW + 27;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_SHARPNESS_OLD	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_SHARPNESS_OLD = V4L2_CID_PRIVATE_BASE_OLD + 2;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_TILT_ABSOLUTE_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_TILT_ABSOLUTE_NEW = V4L2_CID_CAMERA_CLASS_BASE_NEW + 9;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_TILT_RELATIVE_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_TILT_RELATIVE_NEW = V4L2_CID_CAMERA_CLASS_BASE_NEW + 5;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_TILT_RELATIVE_OLD	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_TILT_RELATIVE_OLD = V4L2_CID_PRIVATE_BASE_OLD + 8;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_TILT_RESET_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_TILT_RESET_NEW	= V4L2_CID_CAMERA_CLASS_BASE_NEW + 7;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_WHITE_BALANCE_TEMPERATURE_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_WHITE_BALANCE_TEMPERATURE_NEW = V4L2_CID_BASE_NEW + 26;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_WHITE_BALANCE_TEMP_AUTO_OLD	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_WHITE_BALANCE_TEMP_AUTO_OLD	= V4L2_CID_PRIVATE_BASE_OLD+12;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CID_WHITE_BALANCE_TEMP_OLD	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_WHITE_BALANCE_TEMP_OLD = V4L2_CID_PRIVATE_BASE_OLD + 13;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CTRL_CLASS_CAMERA_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CTRL_CLASS_CAMERA_NEW = 0x009A0000;	\/* Camera class controls *\/$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_CTRL_CLASS_USER_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CTRL_CLASS_USER_NEW = 0x00980000;$/;"	m	class:uvc_cam::Cam	access:private
+V4L2_UVC_EXPOSURE_APERTURE_PRIORITY	include/uvc_cam/uvc_cam.h	/^	V4L2_UVC_EXPOSURE_APERTURE_PRIORITY = 8$/;"	e	enum:uvc_cam::v4l2_uvc_exposure_auto_type
+V4L2_UVC_EXPOSURE_AUTO	include/uvc_cam/uvc_cam.h	/^	V4L2_UVC_EXPOSURE_AUTO = 2,$/;"	e	enum:uvc_cam::v4l2_uvc_exposure_auto_type
+V4L2_UVC_EXPOSURE_MANUAL	include/uvc_cam/uvc_cam.h	/^	V4L2_UVC_EXPOSURE_MANUAL = 1,$/;"	e	enum:uvc_cam::v4l2_uvc_exposure_auto_type
+V4L2_UVC_EXPOSURE_SHUTTER_PRIORITY	include/uvc_cam/uvc_cam.h	/^	V4L2_UVC_EXPOSURE_SHUTTER_PRIORITY = 4,$/;"	e	enum:uvc_cam::v4l2_uvc_exposure_auto_type
+YUYV	src/camera.cpp	/^	std::string YUYV = "YUYV";$/;"	l
+absolute	include/uvc_cam/uvc_cam.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1mode, led1Freq, saturation, focus; $/;"	m	class:uvc_cam::Cam	access:private
+absolute	include/uvc_camera/camera.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1Mode, led1Freq, saturation, focus;$/;"	m	class:uvc_camera::Camera	access:private
+autoExposure	include/uvc_cam/uvc_cam.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1mode, led1Freq, saturation, focus; $/;"	m	class:uvc_cam::Cam	access:private
+autoExposure	include/uvc_camera/camera.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1Mode, led1Freq, saturation, focus;$/;"	m	class:uvc_camera::Camera	access:private
+autoPriority	include/uvc_cam/uvc_cam.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1mode, led1Freq, saturation, focus; $/;"	m	class:uvc_cam::Cam	access:private
+autoPriority	include/uvc_camera/camera.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1Mode, led1Freq, saturation, focus;$/;"	m	class:uvc_camera::Camera	access:private
+b	src/stereo.cpp	/^    unsigned char r, g, b;$/;"	m	struct:pixel_t	file:	access:public
+blacklightCompen	include/uvc_cam/uvc_cam.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1mode, led1Freq, saturation, focus; $/;"	m	class:uvc_cam::Cam	access:private
+blacklightCompen	include/uvc_camera/camera.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1Mode, led1Freq, saturation, focus;$/;"	m	class:uvc_camera::Camera	access:private
+brightness	include/uvc_cam/uvc_cam.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1mode, led1Freq, saturation, focus; $/;"	m	class:uvc_cam::Cam	access:private
+brightness	include/uvc_camera/camera.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1Mode, led1Freq, saturation, focus;$/;"	m	class:uvc_camera::Camera	access:private
+buf	include/uvc_cam/uvc_cam.h	/^  v4l2_buffer buf;$/;"	m	class:uvc_cam::Cam	access:private
+buf_length	include/uvc_cam/uvc_cam.h	/^  unsigned buf_length;$/;"	m	class:uvc_cam::Cam	access:private
+bytes_used	src/camera.cpp	/^        uint32_t bytes_used;$/;"	l
+bytes_used_left	src/stereo.cpp	/^    uint32_t bytes_used_left, bytes_used_right;$/;"	l
+bytes_used_right	src/stereo.cpp	/^    uint32_t bytes_used_left, bytes_used_right;$/;"	l
+c	src/uvc_cam.cpp	/^  v4l2_control c;$/;"	l
+cam	include/uvc_camera/camera.h	/^    uvc_cam::Cam *cam;$/;"	m	class:uvc_camera::Camera	access:private
+camMode	src/camera.cpp	/^	uvc_cam::Cam::mode_t camMode;$/;"	l
+cam_left	include/uvc_camera/stereocamera.h	/^    uvc_cam::Cam *cam_left, *cam_right;$/;"	m	class:uvc_camera::StereoCamera	access:private
+cam_right	include/uvc_camera/stereocamera.h	/^    uvc_cam::Cam *cam_left, *cam_right;$/;"	m	class:uvc_camera::StereoCamera	access:private
+camera	src/nodelets.cpp	/^    Camera *camera;$/;"	m	class:uvc_camera::CameraNodelet	file:	access:private
+cap	include/uvc_cam/uvc_cam.h	/^  v4l2_capability cap;$/;"	m	class:uvc_cam::Cam	access:private
+capture_time	src/camera.cpp	/^        ros::Time capture_time = ros::Time::now();$/;"	l
+capture_time	src/stereo.cpp	/^    ros::Time capture_time = ros::Time::now();$/;"	l
+contrast	include/uvc_cam/uvc_cam.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1mode, led1Freq, saturation, focus; $/;"	m	class:uvc_cam::Cam	access:private
+contrast	include/uvc_camera/camera.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1Mode, led1Freq, saturation, focus;$/;"	m	class:uvc_camera::Camera	access:private
+ctrl_type	src/uvc_cam.cpp	/^      const char *ctrl_type = NULL;$/;"	l
+d	src/uvc_cam.cpp	/^  DIR *d = opendir(v4l_path.c_str());$/;"	l
+d2	src/uvc_cam.cpp	/^    DIR *d2 = opendir(v4l_dev_path.c_str());$/;"	l
+dev_name	src/uvc_cam.cpp	/^    string dev_name = string("\/dev\/") + string(ent->d_name);$/;"	l
+device	include/uvc_cam/uvc_cam.h	/^  std::string device;$/;"	m	class:uvc_cam::Cam	access:private
+device	include/uvc_camera/camera.h	/^    std::string device, frame;$/;"	m	class:uvc_camera::Camera	access:private
+dst	src/stereo.cpp	/^  struct pixel_t *dst = &(((pixel_t *) dst_chr)[pixels - 1]);$/;"	l
+ent	src/uvc_cam.cpp	/^  struct dirent *ent, *ent2, *ent3;$/;"	l
+ent2	src/uvc_cam.cpp	/^  struct dirent *ent, *ent2, *ent3;$/;"	l
+ent3	src/uvc_cam.cpp	/^  struct dirent *ent, *ent2, *ent3;$/;"	l
+enumerate	include/uvc_cam/uvc_cam.h	/^  static void enumerate();$/;"	p	class:uvc_cam::Cam	access:public	signature:()
+enumerate	src/uvc_cam.cpp	/^void Cam::enumerate()$/;"	f	class:Cam	signature:()
+exp_vals	include/uvc_cam/uvc_cam.h	/^static const int exp_vals[]=$/;"	m	namespace:uvc_cam
+f	src/uvc_cam.cpp	/^  v4l2_fmtdesc f;$/;"	l
+fd	include/uvc_cam/uvc_cam.h	/^  int fd, motion_threshold_luminance, motion_threshold_count;$/;"	m	class:uvc_cam::Cam	access:private
+fd	src/uvc_cam.cpp	/^  int fd, ret;$/;"	l
+feedImages	include/uvc_camera/camera.h	/^    void feedImages();$/;"	p	class:uvc_camera::Camera	access:public	signature:()
+feedImages	include/uvc_camera/stereocamera.h	/^    void feedImages();$/;"	p	class:uvc_camera::StereoCamera	access:public	signature:()
+feedImages	src/camera.cpp	/^    void Camera::feedImages() {$/;"	f	class:uvc_camera::Camera	signature:()
+feedImages	src/stereo.cpp	/^void StereoCamera::feedImages() {$/;"	f	class:uvc_camera::StereoCamera	signature:()
+fival	src/uvc_cam.cpp	/^        v4l2_frmivalenum fival;$/;"	l
+fmt	include/uvc_cam/uvc_cam.h	/^  v4l2_format fmt;$/;"	m	class:uvc_cam::Cam	access:private
+focus	include/uvc_cam/uvc_cam.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1mode, led1Freq, saturation, focus; $/;"	m	class:uvc_cam::Cam	access:private
+focus	include/uvc_camera/camera.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1Mode, led1Freq, saturation, focus;$/;"	m	class:uvc_camera::Camera	access:private
+fps	include/uvc_cam/uvc_cam.h	/^  unsigned width, height, fps;$/;"	m	class:uvc_cam::Cam	access:private
+fps	include/uvc_camera/camera.h	/^    int width, height, fps, skip_frames, frames_to_skip;$/;"	m	class:uvc_camera::Camera	access:private
+fps	include/uvc_camera/stereocamera.h	/^    int width, height, fps, skip_frames, frames_to_skip;$/;"	m	class:uvc_camera::StereoCamera	access:private
+frame	include/uvc_camera/camera.h	/^    std::string device, frame;$/;"	m	class:uvc_camera::Camera	access:private
+frame	include/uvc_camera/stereocamera.h	/^    std::string left_device, right_device, frame;$/;"	m	class:uvc_camera::StereoCamera	access:private
+frame_left	src/stereo.cpp	/^    unsigned char *frame_left = NULL, *frame_right = NULL;$/;"	l
+frame_right	src/stereo.cpp	/^    unsigned char *frame_left = NULL, *frame_right = NULL;$/;"	l
+frames_to_skip	include/uvc_camera/camera.h	/^    int width, height, fps, skip_frames, frames_to_skip;$/;"	m	class:uvc_camera::Camera	access:private
+frames_to_skip	include/uvc_camera/stereocamera.h	/^    int width, height, fps, skip_frames, frames_to_skip;$/;"	m	class:uvc_camera::StereoCamera	access:private
+fsize	src/uvc_cam.cpp	/^    v4l2_frmsizeenum fsize;$/;"	l
+g	src/stereo.cpp	/^    unsigned char r, g, b;$/;"	m	struct:pixel_t	file:	access:public
+gain	include/uvc_cam/uvc_cam.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1mode, led1Freq, saturation, focus; $/;"	m	class:uvc_cam::Cam	access:private
+gain	include/uvc_camera/camera.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1Mode, led1Freq, saturation, focus;$/;"	m	class:uvc_camera::Camera	access:private
+grab	include/uvc_cam/uvc_cam.h	/^  int grab(unsigned char **frame, uint32_t &bytes_used);$/;"	p	class:uvc_cam::Cam	access:public	signature:(unsigned char **frame, uint32_t &bytes_used)
+grab	src/uvc_cam.cpp	/^int Cam::grab(unsigned char **frame, uint32_t &bytes_used)$/;"	f	class:Cam	signature:(unsigned char **frame, uint32_t &bytes_used)
+height	include/uvc_cam/uvc_cam.h	/^  unsigned width, height, fps;$/;"	m	class:uvc_cam::Cam	access:private
+height	include/uvc_camera/camera.h	/^    int width, height, fps, skip_frames, frames_to_skip;$/;"	m	class:uvc_camera::Camera	access:private
+height	include/uvc_camera/stereocamera.h	/^    int width, height, fps, skip_frames, frames_to_skip;$/;"	m	class:uvc_camera::StereoCamera	access:private
+i	src/uvc_cam.cpp	/^  uint32_t i = V4L2_CID_BASE;$/;"	l
+idx	src/camera.cpp	/^        int idx = cam->grab(&img_frame, bytes_used);$/;"	l
+image	src/camera.cpp	/^             ImagePtr image(new Image);$/;"	p	file:	signature:(new Image)
+image_left	src/stereo.cpp	/^	ImagePtr image_left(new Image);$/;"	p	file:	signature:(new Image)
+image_right	src/stereo.cpp	/^	ImagePtr image_right(new Image);$/;"	p	file:	signature:(new Image)
+image_thread	include/uvc_camera/camera.h	/^    boost::thread image_thread;$/;"	m	class:uvc_camera::Camera	access:private
+image_thread	include/uvc_camera/stereocamera.h	/^    boost::thread image_thread;$/;"	m	class:uvc_camera::StereoCamera	access:private
+img_frame	src/camera.cpp	/^        unsigned char *img_frame = NULL;$/;"	l
+info	src/camera.cpp	/^      CameraInfoPtr info(new CameraInfo(info_mgr.getCameraInfo()));$/;"	p	file:	signature:(new CameraInfo(info_mgr.getCameraInfo()))
+info_arch	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_left	src/stereo.cpp	/^  CameraInfoPtr info_left(new CameraInfo(left_info_mgr.getCameraInfo()));$/;"	p	file:	signature:(new CameraInfo(left_info_mgr.getCameraInfo()))
+info_mgr	include/uvc_camera/camera.h	/^    camera_info_manager::CameraInfoManager info_mgr;$/;"	m	class:uvc_camera::Camera	access:private
+info_platform	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_pub	include/uvc_camera/camera.h	/^    ros::Publisher info_pub;$/;"	m	class:uvc_camera::Camera	access:private
+info_right	src/stereo.cpp	/^  CameraInfoPtr info_right(new CameraInfo(right_info_mgr.getCameraInfo()));$/;"	p	file:	signature:(new CameraInfo(right_info_mgr.getCameraInfo()))
+init	src/camera_node.cpp	/^  ros::init(argc, argv, "uvc_camera");$/;"	p	class:ros	file:	signature:(argc, argv, Ó)
+init	src/stereo_node.cpp	/^  ros::init(argc, argv, "uvc_camera_stereo");$/;"	p	class:ros	file:	signature:(argc, argv, Ó)
+input	src/uvc_cam.cpp	/^      DIR *input = opendir((v4l_dev_path + string("\/") + string(ent2->d_name)).c_str());$/;"	l
+input_dir	src/uvc_cam.cpp	/^    string input_dir;$/;"	l
+it	include/uvc_camera/camera.h	/^    image_transport::ImageTransport it;$/;"	m	class:uvc_camera::Camera	access:private
+it	include/uvc_camera/stereocamera.h	/^    image_transport::ImageTransport it;$/;"	m	class:uvc_camera::StereoCamera	access:private
+join	src/camera.cpp	/^      image_thread.join();$/;"	p	file:	signature:()
+join	src/stereo.cpp	/^  image_thread.join();$/;"	p	file:	signature:()
+last_yuv_frame	include/uvc_cam/uvc_cam.h	/^  unsigned char *rgb_frame, *last_yuv_frame;$/;"	m	class:uvc_cam::Cam	access:private
+led1Freq	include/uvc_cam/uvc_cam.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1mode, led1Freq, saturation, focus; $/;"	m	class:uvc_cam::Cam	access:private
+led1Freq	include/uvc_camera/camera.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1Mode, led1Freq, saturation, focus;$/;"	m	class:uvc_camera::Camera	access:private
+led1Mode	include/uvc_camera/camera.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1Mode, led1Freq, saturation, focus;$/;"	m	class:uvc_camera::Camera	access:private
+led1mode	include/uvc_cam/uvc_cam.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1mode, led1Freq, saturation, focus; $/;"	m	class:uvc_cam::Cam	access:private
+left_device	include/uvc_camera/stereocamera.h	/^    std::string left_device, right_device, frame;$/;"	m	class:uvc_camera::StereoCamera	access:private
+left_idx	src/stereo.cpp	/^    int left_idx = cam_left->grab(&frame_left, bytes_used_left);$/;"	l
+left_info_mgr	include/uvc_camera/stereocamera.h	/^    camera_info_manager::CameraInfoManager left_info_mgr, right_info_mgr;$/;"	m	class:uvc_camera::StereoCamera	access:private
+left_info_pub	include/uvc_camera/stereocamera.h	/^    ros::Publisher left_info_pub, right_info_pub;$/;"	m	class:uvc_camera::StereoCamera	access:private
+left_pub	include/uvc_camera/stereocamera.h	/^    image_transport::Publisher left_pub, right_pub;$/;"	m	class:uvc_camera::StereoCamera	access:private
+left_url	src/stereo.cpp	/^  std::string left_url, right_url;$/;"	l
+loadCameraInfo	src/camera.cpp	/^      info_mgr.loadCameraInfo(url);$/;"	p	file:	signature:(url)
+loadCameraInfo	src/stereo.cpp	/^  left_info_mgr.loadCameraInfo(left_url);$/;"	p	file:	signature:(left_url)
+loadCameraInfo	src/stereo.cpp	/^  right_info_mgr.loadCameraInfo(right_url);$/;"	p	file:	signature:(right_url)
+main	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^int main(int argc, char* argv[])$/;"	f	signature:(int argc, char* argv[])
+main	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f	signature:(int argc, char* argv[])
+main	src/camera_node.cpp	/^int main (int argc, char **argv) {$/;"	f	signature:(int argc, char **argv)
+main	src/stereo_node.cpp	/^int main (int argc, char **argv) {$/;"	f	signature:(int argc, char **argv)
+mem	include/uvc_cam/uvc_cam.h	/^  void *mem[NUM_BUFFER];$/;"	m	class:uvc_cam::Cam	access:private
+mode	include/uvc_cam/uvc_cam.h	/^  enum mode_t { MODE_RGB, MODE_MJPG, MODE_YUYV } mode;$/;"	m	class:uvc_cam::Cam	typeref:enum:uvc_cam::Cam::mode_t	access:public
+mode	include/uvc_camera/camera.h	/^	std::string mode;$/;"	m	class:uvc_camera::Camera	access:private
+mode_t	include/uvc_cam/uvc_cam.h	/^  enum mode_t { MODE_RGB, MODE_MJPG, MODE_YUYV } mode;$/;"	g	class:uvc_cam::Cam	access:public
+motion_threshold_count	include/uvc_cam/uvc_cam.h	/^  int fd, motion_threshold_luminance, motion_threshold_count;$/;"	m	class:uvc_cam::Cam	access:private
+motion_threshold_luminance	include/uvc_cam/uvc_cam.h	/^  int fd, motion_threshold_luminance, motion_threshold_count;$/;"	m	class:uvc_cam::Cam	access:private
+node	include/uvc_camera/camera.h	/^    ros::NodeHandle node, pnode;$/;"	m	class:uvc_camera::Camera	access:private
+node	include/uvc_camera/stereocamera.h	/^    ros::NodeHandle node, pnode;$/;"	m	class:uvc_camera::StereoCamera	access:private
+node	src/nodelets.cpp	/^      ros::NodeHandle node = getNodeHandle();$/;"	l
+num_pixels_different	src/uvc_cam.cpp	/^    int num_pixels_different = 0; \/\/ just look at the Y channel$/;"	l
+ok	include/uvc_camera/camera.h	/^    bool ok;$/;"	m	class:uvc_camera::Camera	access:private
+ok	include/uvc_camera/stereocamera.h	/^    bool ok;$/;"	m	class:uvc_camera::StereoCamera	access:private
+onInit	include/uvc_camera/camera.h	/^    void onInit();$/;"	p	class:uvc_camera::Camera	access:public	signature:()
+onInit	include/uvc_camera/stereocamera.h	/^    void onInit();$/;"	p	class:uvc_camera::StereoCamera	access:public	signature:()
+onInit	src/nodelets.cpp	/^    void onInit() {$/;"	f	class:uvc_camera::CameraNodelet	access:public	signature:()
+onInit	src/nodelets.cpp	/^    void onInit() {$/;"	f	class:uvc_camera::StereoNodelet	access:public	signature:()
+output_set	src/uvc_cam.cpp	/^      bool output_set = false;$/;"	l
+pair_id	src/camera.cpp	/^      unsigned int pair_id = 0;$/;"	l
+pair_id	src/stereo.cpp	/^  unsigned int pair_id = 0;$/;"	l
+pid	src/uvc_cam.cpp	/^    char vid[5], pid[5], ver[5];$/;"	l
+pid_fname	src/uvc_cam.cpp	/^    string pid_fname = v4l_dev_path + string("\/") + input_dir +$/;"	l
+pid_fp	src/uvc_cam.cpp	/^    FILE *pid_fp = fopen(pid_fname.c_str(), "r");$/;"	l
+pixel_t	src/stereo.cpp	/^  struct pixel_t {$/;"	s	file:
+pixel_t::b	src/stereo.cpp	/^    unsigned char r, g, b;$/;"	m	struct:pixel_t	file:	access:public
+pixel_t::g	src/stereo.cpp	/^    unsigned char r, g, b;$/;"	m	struct:pixel_t	file:	access:public
+pixel_t::r	src/stereo.cpp	/^    unsigned char r, g, b;$/;"	m	struct:pixel_t	file:	access:public
+pnode	include/uvc_camera/camera.h	/^    ros::NodeHandle node, pnode;$/;"	m	class:uvc_camera::Camera	access:private
+pnode	include/uvc_camera/stereocamera.h	/^    ros::NodeHandle node, pnode;$/;"	m	class:uvc_camera::StereoCamera	access:private
+pnode	src/nodelets.cpp	/^      ros::NodeHandle pnode = getPrivateNodeHandle();$/;"	l
+powerFreq	include/uvc_cam/uvc_cam.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1mode, led1Freq, saturation, focus; $/;"	m	class:uvc_cam::Cam	access:private
+powerFreq	include/uvc_camera/camera.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1Mode, led1Freq, saturation, focus;$/;"	m	class:uvc_camera::Camera	access:private
+prgb	src/uvc_cam.cpp	/^    unsigned char *prgb = rgb_frame;$/;"	l
+pub	include/uvc_camera/camera.h	/^    image_transport::Publisher pub;$/;"	m	class:uvc_camera::Camera	access:private
+publish	src/camera.cpp	/^             pub.publish(image);$/;"	p	file:	signature:(image)
+publish	src/camera.cpp	/^      info_pub.publish(info);$/;"	p	file:	signature:(info)
+publish	src/stereo.cpp	/^	left_pub.publish(image_left);$/;"	p	file:	signature:(image_left)
+publish	src/stereo.cpp	/^	right_pub.publish(image_right);$/;"	p	file:	signature:(image_right)
+publish	src/stereo.cpp	/^  left_info_pub.publish(info_left);$/;"	p	file:	signature:(info_left)
+publish	src/stereo.cpp	/^  right_info_pub.publish(info_right);$/;"	p	file:	signature:(info_right)
+pyuv	src/uvc_cam.cpp	/^    unsigned char *pyuv = (unsigned char *)mem[buf.index];$/;"	l
+pyuv_last	src/uvc_cam.cpp	/^    unsigned char *pyuv_last = last_yuv_frame;$/;"	l
+queryctrl	src/uvc_cam.cpp	/^  v4l2_queryctrl queryctrl;$/;"	l
+querymenu	src/uvc_cam.cpp	/^        v4l2_querymenu querymenu;$/;"	l
+r	src/stereo.cpp	/^    unsigned char r, g, b;$/;"	m	struct:pixel_t	file:	access:public
+rb	include/uvc_cam/uvc_cam.h	/^  v4l2_requestbuffers rb;$/;"	m	class:uvc_cam::Cam	access:private
+rdset	src/uvc_cam.cpp	/^  fd_set rdset;$/;"	l
+release	include/uvc_cam/uvc_cam.h	/^  void release(unsigned buf_idx);$/;"	p	class:uvc_cam::Cam	access:public	signature:(unsigned buf_idx)
+release	src/camera.cpp	/^        if (img_frame) cam->release(idx);$/;"	p	file:	signature:(idx)
+release	src/stereo.cpp	/^      cam_left->release(left_idx);$/;"	p	file:	signature:(left_idx)
+release	src/stereo.cpp	/^      cam_right->release(right_idx);$/;"	p	file:	signature:(right_idx)
+release	src/uvc_cam.cpp	/^void Cam::release(unsigned buf_idx)$/;"	f	class:Cam	signature:(unsigned buf_idx)
+require	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^  int require = 0;$/;"	l
+require	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  int require = 0;$/;"	l
+reset	src/camera.cpp	/^        info.reset(new CameraInfo());$/;"	p	file:	signature:(new CameraInfo())
+ret	src/uvc_cam.cpp	/^  int fd, ret;$/;"	l
+ret	src/uvc_cam.cpp	/^  int ret = 0;$/;"	l
+ret	src/uvc_cam.cpp	/^  int ret;$/;"	l
+ret	src/uvc_cam.cpp	/^  int type = V4L2_BUF_TYPE_VIDEO_CAPTURE, ret;$/;"	l
+rgb_frame	include/uvc_cam/uvc_cam.h	/^  unsigned char *rgb_frame, *last_yuv_frame;$/;"	m	class:uvc_cam::Cam	access:private
+right_device	include/uvc_camera/stereocamera.h	/^    std::string left_device, right_device, frame;$/;"	m	class:uvc_camera::StereoCamera	access:private
+right_idx	src/stereo.cpp	/^    int right_idx = cam_right->grab(&frame_right, bytes_used_right);$/;"	l
+right_info_mgr	include/uvc_camera/stereocamera.h	/^    camera_info_manager::CameraInfoManager left_info_mgr, right_info_mgr;$/;"	m	class:uvc_camera::StereoCamera	access:private
+right_info_pub	include/uvc_camera/stereocamera.h	/^    ros::Publisher left_info_pub, right_info_pub;$/;"	m	class:uvc_camera::StereoCamera	access:private
+right_pub	include/uvc_camera/stereocamera.h	/^    image_transport::Publisher left_pub, right_pub;$/;"	m	class:uvc_camera::StereoCamera	access:private
+right_url	src/stereo.cpp	/^  std::string left_url, right_url;$/;"	l
+ros::init	src/camera_node.cpp	/^  ros::init(argc, argv, "uvc_camera");$/;"	p	class:ros	file:	signature:(argc, argv, Ó)
+ros::init	src/stereo_node.cpp	/^  ros::init(argc, argv, "uvc_camera_stereo");$/;"	p	class:ros	file:	signature:(argc, argv, Ó)
+ros::spin	src/camera_node.cpp	/^  ros::spin();$/;"	p	class:ros	file:	signature:()
+ros::spin	src/stereo_node.cpp	/^  ros::spin();$/;"	p	class:ros	file:	signature:()
+rotate	include/uvc_camera/camera.h	/^    bool rotate;$/;"	m	class:uvc_camera::Camera	access:private
+rotate	src/stereo.cpp	/^static inline void rotate(unsigned char *dst_chr, unsigned char *src_chr, int pixels) {$/;"	f	file:	signature:(unsigned char *dst_chr, unsigned char *src_chr, int pixels)
+rotate_left	include/uvc_camera/stereocamera.h	/^    bool rotate_left, rotate_right;$/;"	m	class:uvc_camera::StereoCamera	access:private
+rotate_right	include/uvc_camera/stereocamera.h	/^    bool rotate_left, rotate_right;$/;"	m	class:uvc_camera::StereoCamera	access:private
+sat	src/uvc_cam.cpp	/^inline unsigned char sat(float f)$/;"	f	signature:(float f)
+saturation	include/uvc_cam/uvc_cam.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1mode, led1Freq, saturation, focus; $/;"	m	class:uvc_cam::Cam	access:private
+saturation	include/uvc_camera/camera.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1Mode, led1Freq, saturation, focus;$/;"	m	class:uvc_camera::Camera	access:private
+sendInfo	include/uvc_camera/camera.h	/^    void sendInfo(sensor_msgs::ImagePtr &image, ros::Time time);$/;"	p	class:uvc_camera::Camera	access:public	signature:(sensor_msgs::ImagePtr &image, ros::Time time)
+sendInfo	include/uvc_camera/stereocamera.h	/^    void sendInfo(ros::Time time);$/;"	p	class:uvc_camera::StereoCamera	access:public	signature:(ros::Time time)
+sendInfo	src/camera.cpp	/^    void Camera::sendInfo(ImagePtr &image, ros::Time time) {$/;"	f	class:uvc_camera::Camera	signature:(ImagePtr &image, ros::Time time)
+sendInfo	src/stereo.cpp	/^void StereoCamera::sendInfo(ros::Time time) {$/;"	f	class:uvc_camera::StereoCamera	signature:(ros::Time time)
+set_auto_white_balance	include/uvc_cam/uvc_cam.h	/^  bool set_auto_white_balance(bool on);$/;"	p	class:uvc_cam::Cam	access:public	signature:(bool on)
+set_control	include/uvc_cam/uvc_cam.h	/^  void set_control(uint32_t id, int val);$/;"	p	class:uvc_cam::Cam	access:public	signature:(uint32_t id, int val)
+set_control	src/uvc_cam.cpp	/^void Cam::set_control(uint32_t id, int val)$/;"	f	class:Cam	signature:(uint32_t id, int val)
+set_motion_thresholds	include/uvc_cam/uvc_cam.h	/^  void set_motion_thresholds(int lum, int count);$/;"	p	class:uvc_cam::Cam	access:public	signature:(int lum, int count)
+set_motion_thresholds	src/uvc_cam.cpp	/^void Cam::set_motion_thresholds(int lum, int count)$/;"	f	class:Cam	signature:(int lum, int count)
+sharpness	include/uvc_cam/uvc_cam.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1mode, led1Freq, saturation, focus; $/;"	m	class:uvc_cam::Cam	access:private
+sharpness	include/uvc_camera/camera.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1Mode, led1Freq, saturation, focus;$/;"	m	class:uvc_camera::Camera	access:private
+skip_frames	include/uvc_camera/camera.h	/^    int width, height, fps, skip_frames, frames_to_skip;$/;"	m	class:uvc_camera::Camera	access:private
+skip_frames	include/uvc_camera/stereocamera.h	/^    int width, height, fps, skip_frames, frames_to_skip;$/;"	m	class:uvc_camera::StereoCamera	access:private
+spin	src/camera_node.cpp	/^  ros::spin();$/;"	p	class:ros	file:	signature:()
+spin	src/stereo_node.cpp	/^  ros::spin();$/;"	p	class:ros	file:	signature:()
+src	src/stereo.cpp	/^  struct pixel_t *src = (pixel_t *) src_chr;$/;"	l
+stereo	src/nodelets.cpp	/^    StereoCamera *stereo;$/;"	m	class:uvc_camera::StereoNodelet	file:	access:private
+streamparm	include/uvc_cam/uvc_cam.h	/^  v4l2_streamparm streamparm;$/;"	m	class:uvc_cam::Cam	access:private
+timecode	include/uvc_cam/uvc_cam.h	/^  v4l2_timecode timecode;$/;"	m	class:uvc_cam::Cam	access:private
+timeout	src/uvc_cam.cpp	/^  timeval timeout;$/;"	l
+type	src/uvc_cam.cpp	/^  int type = V4L2_BUF_TYPE_VIDEO_CAPTURE, ret;$/;"	l
+type	src/uvc_cam.cpp	/^  int type = V4L2_BUF_TYPE_VIDEO_CAPTURE;$/;"	l
+url	src/camera.cpp	/^      std::string url;$/;"	l
+uvc_cam	include/uvc_cam/uvc_cam.h	/^namespace uvc_cam$/;"	n
+uvc_cam::Cam	include/uvc_cam/uvc_cam.h	/^class Cam$/;"	c	namespace:uvc_cam
+uvc_cam::Cam::Cam	include/uvc_cam/uvc_cam.h	/^  Cam(const char *device, mode_t _mode = MODE_RGB,$/;"	p	class:uvc_cam::Cam	access:public	signature:(const char *device, mode_t _mode = MODE_RGB, int _width = 640, int _height = 480, int _fps = 30)
+uvc_cam::Cam::Cam	include/uvc_cam/uvc_cam.h	/^  Cam(const char *device, mode_t _mode,$/;"	p	class:uvc_cam::Cam	access:public	signature:(const char *device, mode_t _mode, int _width, int _height, int _fps, int _autoPriority, int _autoExposure, int _brightness, int _contrast, int _whiteBalanceTempAuto, int _whiteBalanceTemp, int _powerFreq, int _gain, int _sharpness, int _blacklightCompen, int _absolute, int _led1mode, int _led1Freq, int _saturation, int _focus)
+uvc_cam::Cam::MODE_MJPG	include/uvc_cam/uvc_cam.h	/^  enum mode_t { MODE_RGB, MODE_MJPG, MODE_YUYV } mode;$/;"	e	enum:uvc_cam::Cam::mode_t
+uvc_cam::Cam::MODE_RGB	include/uvc_cam/uvc_cam.h	/^  enum mode_t { MODE_RGB, MODE_MJPG, MODE_YUYV } mode;$/;"	e	enum:uvc_cam::Cam::mode_t
+uvc_cam::Cam::MODE_YUYV	include/uvc_cam/uvc_cam.h	/^  enum mode_t { MODE_RGB, MODE_MJPG, MODE_YUYV } mode;$/;"	e	enum:uvc_cam::Cam::mode_t
+uvc_cam::Cam::NUM_BUFFER	include/uvc_cam/uvc_cam.h	/^  static const unsigned NUM_BUFFER = 2;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::UVC_CTRL_DATA_TYPE_BITMASK	include/uvc_cam/uvc_cam.h	/^  CSU32 UVC_CTRL_DATA_TYPE_BITMASK = 5;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::UVC_CTRL_DATA_TYPE_BOOLEAN	include/uvc_cam/uvc_cam.h	/^  CSU32 UVC_CTRL_DATA_TYPE_BOOLEAN = 3;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::UVC_CTRL_DATA_TYPE_ENUM	include/uvc_cam/uvc_cam.h	/^  CSU32 UVC_CTRL_DATA_TYPE_ENUM = 4;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::UVC_CTRL_DATA_TYPE_RAW	include/uvc_cam/uvc_cam.h	/^  CSU32 UVC_CTRL_DATA_TYPE_RAW = 0;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::UVC_CTRL_DATA_TYPE_SIGNED	include/uvc_cam/uvc_cam.h	/^  CSU32 UVC_CTRL_DATA_TYPE_SIGNED	= 1;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::UVC_CTRL_DATA_TYPE_UNSIGNED	include/uvc_cam/uvc_cam.h	/^  CSU32 UVC_CTRL_DATA_TYPE_UNSIGNED	= 2;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_BACKLIGHT_COMPENSATION_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_BACKLIGHT_COMPENSATION_NEW = V4L2_CID_BASE_NEW + 28;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_BACKLIGHT_COMPENSATION_OLD	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_BACKLIGHT_COMPENSATION_OLD = V4L2_CID_PRIVATE_BASE_OLD + 0;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_BASE_EXTCTR	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_BASE_EXTCTR = 0x0A046D01;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_BASE_LOGITECH	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_BASE_LOGITECH = V4L2_CID_BASE_EXTCTR;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_BASE_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_BASE_NEW = V4L2_CTRL_CLASS_USER_NEW | 0x900;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_CAMERA_CLASS_BASE_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_CAMERA_CLASS_BASE_NEW = V4L2_CTRL_CLASS_CAMERA_NEW | 0x900;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_CAMERA_CLASS_LAST	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_CAMERA_CLASS_LAST = V4L2_CID_CAMERA_CLASS_BASE_NEW + 13;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_DISABLE_PROCESSING_LOGITECH	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_DISABLE_PROCESSING_LOGITECH = V4L2_CID_BASE_LOGITECH + 0x70;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_EXPOSURE_ABSOLUTE_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_EXPOSURE_ABSOLUTE_NEW = V4L2_CID_CAMERA_CLASS_BASE_NEW + 2;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_EXPOSURE_ABSOLUTE_OLD	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_EXPOSURE_ABSOLUTE_OLD = V4L2_CID_PRIVATE_BASE_OLD + 11;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_EXPOSURE_AUTO_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_EXPOSURE_AUTO_NEW = V4L2_CID_CAMERA_CLASS_BASE_NEW + 1;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_EXPOSURE_AUTO_OLD	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_EXPOSURE_AUTO_OLD = V4L2_CID_PRIVATE_BASE_OLD + 10;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_EXPOSURE_AUTO_PRIORITY_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_EXPOSURE_AUTO_PRIORITY_NEW = V4L2_CID_CAMERA_CLASS_BASE_NEW+3;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_FOCUS_ABSOLUTE_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_FOCUS_ABSOLUTE_NEW = V4L2_CID_CAMERA_CLASS_BASE_NEW + 10;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_FOCUS_ABSOLUTE_OLD	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_FOCUS_ABSOLUTE_OLD = V4L2_CID_PRIVATE_BASE_OLD + 5;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_FOCUS_AUTO_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_FOCUS_AUTO_NEW = V4L2_CID_CAMERA_CLASS_BASE_NEW + 12;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_FOCUS_AUTO_OLD	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_FOCUS_AUTO_OLD = V4L2_CID_PRIVATE_BASE_OLD + 4;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_FOCUS_LOGITECH	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_FOCUS_LOGITECH = V4L2_CID_BASE_LOGITECH + 3;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_FOCUS_RELATIVE_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_FOCUS_RELATIVE_NEW = V4L2_CID_CAMERA_CLASS_BASE_NEW + 11;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_FOCUS_RELATIVE_OLD	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_FOCUS_RELATIVE_OLD = V4L2_CID_PRIVATE_BASE_OLD + 6;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_HUE_AUTO_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_HUE_AUTO_NEW = V4L2_CID_BASE_NEW + 25;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_HUE_AUTO_OLD	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_HUE_AUTO_OLD = V4L2_CID_PRIVATE_BASE_OLD + 3;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_LAST_EXTCTR	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_LAST_EXTCTR = V4L2_CID_RAW_BITS_PER_PIXEL_LOGITECH;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_LAST_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_LAST_NEW = V4L2_CID_BASE_NEW + 29;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_LED1_FREQUENCY_LOGITECH	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_LED1_FREQUENCY_LOGITECH = V4L2_CID_BASE_LOGITECH + 5;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_LED1_MODE_LOGITECH	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_LED1_MODE_LOGITECH = V4L2_CID_BASE_LOGITECH + 4;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_PANTILT_RESET_LOGITECH	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_PANTILT_RESET_LOGITECH = V4L2_CID_BASE_LOGITECH + 2;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_PANTILT_RESET_OLD	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_PANTILT_RESET_OLD = V4L2_CID_PRIVATE_BASE_OLD + 9;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_PAN_ABSOLUTE_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_PAN_ABSOLUTE_NEW = V4L2_CID_CAMERA_CLASS_BASE_NEW + 8;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_PAN_RELATIVE_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_PAN_RELATIVE_NEW = V4L2_CID_CAMERA_CLASS_BASE_NEW + 4;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_PAN_RELATIVE_OLD	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_PAN_RELATIVE_OLD = V4L2_CID_PRIVATE_BASE_OLD + 7;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_PAN_RESET_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_PAN_RESET_NEW = V4L2_CID_CAMERA_CLASS_BASE_NEW + 6;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_POWER_LINE_FREQUENCY_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_POWER_LINE_FREQUENCY_NEW = V4L2_CID_BASE_NEW + 24;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_POWER_LINE_FREQUENCY_OLD	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_POWER_LINE_FREQUENCY_OLD = V4L2_CID_PRIVATE_BASE_OLD + 1;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_PRIVATE_BASE_OLD	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_PRIVATE_BASE_OLD = 0x08000000;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_PRIVATE_LAST	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_PRIVATE_LAST = V4L2_CID_WHITE_BALANCE_TEMP_OLD + 1;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_RAW_BITS_PER_PIXEL_LOGITECH	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_RAW_BITS_PER_PIXEL_LOGITECH = V4L2_CID_BASE_LOGITECH + 0x71;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_SHARPNESS_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_SHARPNESS_NEW = V4L2_CID_BASE_NEW + 27;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_SHARPNESS_OLD	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_SHARPNESS_OLD = V4L2_CID_PRIVATE_BASE_OLD + 2;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_TILT_ABSOLUTE_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_TILT_ABSOLUTE_NEW = V4L2_CID_CAMERA_CLASS_BASE_NEW + 9;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_TILT_RELATIVE_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_TILT_RELATIVE_NEW = V4L2_CID_CAMERA_CLASS_BASE_NEW + 5;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_TILT_RELATIVE_OLD	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_TILT_RELATIVE_OLD = V4L2_CID_PRIVATE_BASE_OLD + 8;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_TILT_RESET_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_TILT_RESET_NEW	= V4L2_CID_CAMERA_CLASS_BASE_NEW + 7;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_WHITE_BALANCE_TEMPERATURE_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_WHITE_BALANCE_TEMPERATURE_NEW = V4L2_CID_BASE_NEW + 26;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_WHITE_BALANCE_TEMP_AUTO_OLD	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_WHITE_BALANCE_TEMP_AUTO_OLD	= V4L2_CID_PRIVATE_BASE_OLD+12;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CID_WHITE_BALANCE_TEMP_OLD	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CID_WHITE_BALANCE_TEMP_OLD = V4L2_CID_PRIVATE_BASE_OLD + 13;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CTRL_CLASS_CAMERA_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CTRL_CLASS_CAMERA_NEW = 0x009A0000;	\/* Camera class controls *\/$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::V4L2_CTRL_CLASS_USER_NEW	include/uvc_cam/uvc_cam.h	/^  CSU32 V4L2_CTRL_CLASS_USER_NEW = 0x00980000;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::absolute	include/uvc_cam/uvc_cam.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1mode, led1Freq, saturation, focus; $/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::autoExposure	include/uvc_cam/uvc_cam.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1mode, led1Freq, saturation, focus; $/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::autoPriority	include/uvc_cam/uvc_cam.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1mode, led1Freq, saturation, focus; $/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::blacklightCompen	include/uvc_cam/uvc_cam.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1mode, led1Freq, saturation, focus; $/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::brightness	include/uvc_cam/uvc_cam.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1mode, led1Freq, saturation, focus; $/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::buf	include/uvc_cam/uvc_cam.h	/^  v4l2_buffer buf;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::buf_length	include/uvc_cam/uvc_cam.h	/^  unsigned buf_length;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::cap	include/uvc_cam/uvc_cam.h	/^  v4l2_capability cap;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::contrast	include/uvc_cam/uvc_cam.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1mode, led1Freq, saturation, focus; $/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::device	include/uvc_cam/uvc_cam.h	/^  std::string device;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::enumerate	include/uvc_cam/uvc_cam.h	/^  static void enumerate();$/;"	p	class:uvc_cam::Cam	access:public	signature:()
+uvc_cam::Cam::fd	include/uvc_cam/uvc_cam.h	/^  int fd, motion_threshold_luminance, motion_threshold_count;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::fmt	include/uvc_cam/uvc_cam.h	/^  v4l2_format fmt;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::focus	include/uvc_cam/uvc_cam.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1mode, led1Freq, saturation, focus; $/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::fps	include/uvc_cam/uvc_cam.h	/^  unsigned width, height, fps;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::gain	include/uvc_cam/uvc_cam.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1mode, led1Freq, saturation, focus; $/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::grab	include/uvc_cam/uvc_cam.h	/^  int grab(unsigned char **frame, uint32_t &bytes_used);$/;"	p	class:uvc_cam::Cam	access:public	signature:(unsigned char **frame, uint32_t &bytes_used)
+uvc_cam::Cam::height	include/uvc_cam/uvc_cam.h	/^  unsigned width, height, fps;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::last_yuv_frame	include/uvc_cam/uvc_cam.h	/^  unsigned char *rgb_frame, *last_yuv_frame;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::led1Freq	include/uvc_cam/uvc_cam.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1mode, led1Freq, saturation, focus; $/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::led1mode	include/uvc_cam/uvc_cam.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1mode, led1Freq, saturation, focus; $/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::mem	include/uvc_cam/uvc_cam.h	/^  void *mem[NUM_BUFFER];$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::mode	include/uvc_cam/uvc_cam.h	/^  enum mode_t { MODE_RGB, MODE_MJPG, MODE_YUYV } mode;$/;"	m	class:uvc_cam::Cam	typeref:enum:uvc_cam::Cam::mode_t	access:public
+uvc_cam::Cam::mode_t	include/uvc_cam/uvc_cam.h	/^  enum mode_t { MODE_RGB, MODE_MJPG, MODE_YUYV } mode;$/;"	g	class:uvc_cam::Cam	access:public
+uvc_cam::Cam::motion_threshold_count	include/uvc_cam/uvc_cam.h	/^  int fd, motion_threshold_luminance, motion_threshold_count;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::motion_threshold_luminance	include/uvc_cam/uvc_cam.h	/^  int fd, motion_threshold_luminance, motion_threshold_count;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::powerFreq	include/uvc_cam/uvc_cam.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1mode, led1Freq, saturation, focus; $/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::rb	include/uvc_cam/uvc_cam.h	/^  v4l2_requestbuffers rb;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::release	include/uvc_cam/uvc_cam.h	/^  void release(unsigned buf_idx);$/;"	p	class:uvc_cam::Cam	access:public	signature:(unsigned buf_idx)
+uvc_cam::Cam::rgb_frame	include/uvc_cam/uvc_cam.h	/^  unsigned char *rgb_frame, *last_yuv_frame;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::saturation	include/uvc_cam/uvc_cam.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1mode, led1Freq, saturation, focus; $/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::set_auto_white_balance	include/uvc_cam/uvc_cam.h	/^  bool set_auto_white_balance(bool on);$/;"	p	class:uvc_cam::Cam	access:public	signature:(bool on)
+uvc_cam::Cam::set_control	include/uvc_cam/uvc_cam.h	/^  void set_control(uint32_t id, int val);$/;"	p	class:uvc_cam::Cam	access:public	signature:(uint32_t id, int val)
+uvc_cam::Cam::set_motion_thresholds	include/uvc_cam/uvc_cam.h	/^  void set_motion_thresholds(int lum, int count);$/;"	p	class:uvc_cam::Cam	access:public	signature:(int lum, int count)
+uvc_cam::Cam::sharpness	include/uvc_cam/uvc_cam.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1mode, led1Freq, saturation, focus; $/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::streamparm	include/uvc_cam/uvc_cam.h	/^  v4l2_streamparm streamparm;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::timecode	include/uvc_cam/uvc_cam.h	/^  v4l2_timecode timecode;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::whiteBalanceTemp	include/uvc_cam/uvc_cam.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1mode, led1Freq, saturation, focus; $/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::whiteBalanceTempAuto	include/uvc_cam/uvc_cam.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1mode, led1Freq, saturation, focus; $/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::width	include/uvc_cam/uvc_cam.h	/^  unsigned width, height, fps;$/;"	m	class:uvc_cam::Cam	access:private
+uvc_cam::Cam::~Cam	include/uvc_cam/uvc_cam.h	/^  ~Cam();$/;"	p	class:uvc_cam::Cam	access:public	signature:()
+uvc_cam::V4L2_UVC_EXPOSURE_APERTURE_PRIORITY	include/uvc_cam/uvc_cam.h	/^	V4L2_UVC_EXPOSURE_APERTURE_PRIORITY = 8$/;"	e	enum:uvc_cam::v4l2_uvc_exposure_auto_type
+uvc_cam::V4L2_UVC_EXPOSURE_AUTO	include/uvc_cam/uvc_cam.h	/^	V4L2_UVC_EXPOSURE_AUTO = 2,$/;"	e	enum:uvc_cam::v4l2_uvc_exposure_auto_type
+uvc_cam::V4L2_UVC_EXPOSURE_MANUAL	include/uvc_cam/uvc_cam.h	/^	V4L2_UVC_EXPOSURE_MANUAL = 1,$/;"	e	enum:uvc_cam::v4l2_uvc_exposure_auto_type
+uvc_cam::V4L2_UVC_EXPOSURE_SHUTTER_PRIORITY	include/uvc_cam/uvc_cam.h	/^	V4L2_UVC_EXPOSURE_SHUTTER_PRIORITY = 4,$/;"	e	enum:uvc_cam::v4l2_uvc_exposure_auto_type
+uvc_cam::exp_vals	include/uvc_cam/uvc_cam.h	/^static const int exp_vals[]=$/;"	m	namespace:uvc_cam
+uvc_cam::v4l2_uvc_exposure_auto_type	include/uvc_cam/uvc_cam.h	/^enum v4l2_uvc_exposure_auto_type$/;"	g	namespace:uvc_cam
+uvc_camera	include/uvc_camera/camera.h	/^namespace uvc_camera {$/;"	n
+uvc_camera	include/uvc_camera/stereocamera.h	/^namespace uvc_camera {$/;"	n
+uvc_camera	src/camera.cpp	/^namespace uvc_camera {$/;"	n	file:
+uvc_camera	src/nodelets.cpp	/^namespace uvc_camera {$/;"	n	file:
+uvc_camera	src/stereo.cpp	/^namespace uvc_camera {$/;"	n	file:
+uvc_camera::Camera	include/uvc_camera/camera.h	/^class Camera {$/;"	c	namespace:uvc_camera
+uvc_camera::Camera::Camera	include/uvc_camera/camera.h	/^    Camera(ros::NodeHandle comm_nh, ros::NodeHandle param_nh);$/;"	p	class:uvc_camera::Camera	access:public	signature:(ros::NodeHandle comm_nh, ros::NodeHandle param_nh)
+uvc_camera::Camera::Camera	src/camera.cpp	/^Camera::Camera(ros::NodeHandle _comm_nh, ros::NodeHandle _param_nh) :$/;"	f	class:uvc_camera::Camera	signature:(ros::NodeHandle _comm_nh, ros::NodeHandle _param_nh)
+uvc_camera::Camera::absolute	include/uvc_camera/camera.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1Mode, led1Freq, saturation, focus;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::autoExposure	include/uvc_camera/camera.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1Mode, led1Freq, saturation, focus;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::autoPriority	include/uvc_camera/camera.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1Mode, led1Freq, saturation, focus;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::blacklightCompen	include/uvc_camera/camera.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1Mode, led1Freq, saturation, focus;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::brightness	include/uvc_camera/camera.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1Mode, led1Freq, saturation, focus;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::cam	include/uvc_camera/camera.h	/^    uvc_cam::Cam *cam;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::contrast	include/uvc_camera/camera.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1Mode, led1Freq, saturation, focus;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::device	include/uvc_camera/camera.h	/^    std::string device, frame;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::feedImages	include/uvc_camera/camera.h	/^    void feedImages();$/;"	p	class:uvc_camera::Camera	access:public	signature:()
+uvc_camera::Camera::feedImages	src/camera.cpp	/^    void Camera::feedImages() {$/;"	f	class:uvc_camera::Camera	signature:()
+uvc_camera::Camera::focus	include/uvc_camera/camera.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1Mode, led1Freq, saturation, focus;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::fps	include/uvc_camera/camera.h	/^    int width, height, fps, skip_frames, frames_to_skip;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::frame	include/uvc_camera/camera.h	/^    std::string device, frame;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::frames_to_skip	include/uvc_camera/camera.h	/^    int width, height, fps, skip_frames, frames_to_skip;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::gain	include/uvc_camera/camera.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1Mode, led1Freq, saturation, focus;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::height	include/uvc_camera/camera.h	/^    int width, height, fps, skip_frames, frames_to_skip;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::image_thread	include/uvc_camera/camera.h	/^    boost::thread image_thread;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::info_mgr	include/uvc_camera/camera.h	/^    camera_info_manager::CameraInfoManager info_mgr;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::info_pub	include/uvc_camera/camera.h	/^    ros::Publisher info_pub;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::it	include/uvc_camera/camera.h	/^    image_transport::ImageTransport it;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::led1Freq	include/uvc_camera/camera.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1Mode, led1Freq, saturation, focus;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::led1Mode	include/uvc_camera/camera.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1Mode, led1Freq, saturation, focus;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::mode	include/uvc_camera/camera.h	/^	std::string mode;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::node	include/uvc_camera/camera.h	/^    ros::NodeHandle node, pnode;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::ok	include/uvc_camera/camera.h	/^    bool ok;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::onInit	include/uvc_camera/camera.h	/^    void onInit();$/;"	p	class:uvc_camera::Camera	access:public	signature:()
+uvc_camera::Camera::pnode	include/uvc_camera/camera.h	/^    ros::NodeHandle node, pnode;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::powerFreq	include/uvc_camera/camera.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1Mode, led1Freq, saturation, focus;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::pub	include/uvc_camera/camera.h	/^    image_transport::Publisher pub;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::rotate	include/uvc_camera/camera.h	/^    bool rotate;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::saturation	include/uvc_camera/camera.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1Mode, led1Freq, saturation, focus;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::sendInfo	include/uvc_camera/camera.h	/^    void sendInfo(sensor_msgs::ImagePtr &image, ros::Time time);$/;"	p	class:uvc_camera::Camera	access:public	signature:(sensor_msgs::ImagePtr &image, ros::Time time)
+uvc_camera::Camera::sendInfo	src/camera.cpp	/^    void Camera::sendInfo(ImagePtr &image, ros::Time time) {$/;"	f	class:uvc_camera::Camera	signature:(ImagePtr &image, ros::Time time)
+uvc_camera::Camera::sharpness	include/uvc_camera/camera.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1Mode, led1Freq, saturation, focus;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::skip_frames	include/uvc_camera/camera.h	/^    int width, height, fps, skip_frames, frames_to_skip;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::whiteBalanceTemp	include/uvc_camera/camera.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1Mode, led1Freq, saturation, focus;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::whiteBalanceTempAuto	include/uvc_camera/camera.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1Mode, led1Freq, saturation, focus;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::width	include/uvc_camera/camera.h	/^    int width, height, fps, skip_frames, frames_to_skip;$/;"	m	class:uvc_camera::Camera	access:private
+uvc_camera::Camera::~Camera	include/uvc_camera/camera.h	/^    ~Camera();$/;"	p	class:uvc_camera::Camera	access:public	signature:()
+uvc_camera::Camera::~Camera	src/camera.cpp	/^    Camera::~Camera() {$/;"	f	class:uvc_camera::Camera	signature:()
+uvc_camera::CameraNodelet	src/nodelets.cpp	/^class CameraNodelet : public nodelet::Nodelet {$/;"	c	namespace:uvc_camera	file:	inherits:nodelet::Nodelet
+uvc_camera::CameraNodelet::CameraNodelet	src/nodelets.cpp	/^    CameraNodelet() {}$/;"	f	class:uvc_camera::CameraNodelet	access:public	signature:()
+uvc_camera::CameraNodelet::camera	src/nodelets.cpp	/^    Camera *camera;$/;"	m	class:uvc_camera::CameraNodelet	file:	access:private
+uvc_camera::CameraNodelet::node	src/nodelets.cpp	/^      ros::NodeHandle node = getNodeHandle();$/;"	l
+uvc_camera::CameraNodelet::onInit	src/nodelets.cpp	/^    void onInit() {$/;"	f	class:uvc_camera::CameraNodelet	access:public	signature:()
+uvc_camera::CameraNodelet::pnode	src/nodelets.cpp	/^      ros::NodeHandle pnode = getPrivateNodeHandle();$/;"	l
+uvc_camera::CameraNodelet::~CameraNodelet	src/nodelets.cpp	/^    ~CameraNodelet() {$/;"	f	class:uvc_camera::CameraNodelet	access:public	signature:()
+uvc_camera::MJPG	src/camera.cpp	/^	std::string MJPG = "MJPG";$/;"	l
+uvc_camera::RGB	src/camera.cpp	/^ 	std::string RGB  = "RGB";$/;"	l
+uvc_camera::StereoCamera	include/uvc_camera/stereocamera.h	/^class StereoCamera {$/;"	c	namespace:uvc_camera
+uvc_camera::StereoCamera::StereoCamera	include/uvc_camera/stereocamera.h	/^    StereoCamera(ros::NodeHandle comm_nh, ros::NodeHandle param_nh);$/;"	p	class:uvc_camera::StereoCamera	access:public	signature:(ros::NodeHandle comm_nh, ros::NodeHandle param_nh)
+uvc_camera::StereoCamera::StereoCamera	src/stereo.cpp	/^StereoCamera::StereoCamera(ros::NodeHandle comm_nh, ros::NodeHandle param_nh) :$/;"	f	class:uvc_camera::StereoCamera	signature:(ros::NodeHandle comm_nh, ros::NodeHandle param_nh)
+uvc_camera::StereoCamera::cam_left	include/uvc_camera/stereocamera.h	/^    uvc_cam::Cam *cam_left, *cam_right;$/;"	m	class:uvc_camera::StereoCamera	access:private
+uvc_camera::StereoCamera::cam_right	include/uvc_camera/stereocamera.h	/^    uvc_cam::Cam *cam_left, *cam_right;$/;"	m	class:uvc_camera::StereoCamera	access:private
+uvc_camera::StereoCamera::feedImages	include/uvc_camera/stereocamera.h	/^    void feedImages();$/;"	p	class:uvc_camera::StereoCamera	access:public	signature:()
+uvc_camera::StereoCamera::feedImages	src/stereo.cpp	/^void StereoCamera::feedImages() {$/;"	f	class:uvc_camera::StereoCamera	signature:()
+uvc_camera::StereoCamera::fps	include/uvc_camera/stereocamera.h	/^    int width, height, fps, skip_frames, frames_to_skip;$/;"	m	class:uvc_camera::StereoCamera	access:private
+uvc_camera::StereoCamera::frame	include/uvc_camera/stereocamera.h	/^    std::string left_device, right_device, frame;$/;"	m	class:uvc_camera::StereoCamera	access:private
+uvc_camera::StereoCamera::frames_to_skip	include/uvc_camera/stereocamera.h	/^    int width, height, fps, skip_frames, frames_to_skip;$/;"	m	class:uvc_camera::StereoCamera	access:private
+uvc_camera::StereoCamera::height	include/uvc_camera/stereocamera.h	/^    int width, height, fps, skip_frames, frames_to_skip;$/;"	m	class:uvc_camera::StereoCamera	access:private
+uvc_camera::StereoCamera::image_thread	include/uvc_camera/stereocamera.h	/^    boost::thread image_thread;$/;"	m	class:uvc_camera::StereoCamera	access:private
+uvc_camera::StereoCamera::it	include/uvc_camera/stereocamera.h	/^    image_transport::ImageTransport it;$/;"	m	class:uvc_camera::StereoCamera	access:private
+uvc_camera::StereoCamera::left_device	include/uvc_camera/stereocamera.h	/^    std::string left_device, right_device, frame;$/;"	m	class:uvc_camera::StereoCamera	access:private
+uvc_camera::StereoCamera::left_info_mgr	include/uvc_camera/stereocamera.h	/^    camera_info_manager::CameraInfoManager left_info_mgr, right_info_mgr;$/;"	m	class:uvc_camera::StereoCamera	access:private
+uvc_camera::StereoCamera::left_info_pub	include/uvc_camera/stereocamera.h	/^    ros::Publisher left_info_pub, right_info_pub;$/;"	m	class:uvc_camera::StereoCamera	access:private
+uvc_camera::StereoCamera::left_pub	include/uvc_camera/stereocamera.h	/^    image_transport::Publisher left_pub, right_pub;$/;"	m	class:uvc_camera::StereoCamera	access:private
+uvc_camera::StereoCamera::node	include/uvc_camera/stereocamera.h	/^    ros::NodeHandle node, pnode;$/;"	m	class:uvc_camera::StereoCamera	access:private
+uvc_camera::StereoCamera::ok	include/uvc_camera/stereocamera.h	/^    bool ok;$/;"	m	class:uvc_camera::StereoCamera	access:private
+uvc_camera::StereoCamera::onInit	include/uvc_camera/stereocamera.h	/^    void onInit();$/;"	p	class:uvc_camera::StereoCamera	access:public	signature:()
+uvc_camera::StereoCamera::pnode	include/uvc_camera/stereocamera.h	/^    ros::NodeHandle node, pnode;$/;"	m	class:uvc_camera::StereoCamera	access:private
+uvc_camera::StereoCamera::right_device	include/uvc_camera/stereocamera.h	/^    std::string left_device, right_device, frame;$/;"	m	class:uvc_camera::StereoCamera	access:private
+uvc_camera::StereoCamera::right_info_mgr	include/uvc_camera/stereocamera.h	/^    camera_info_manager::CameraInfoManager left_info_mgr, right_info_mgr;$/;"	m	class:uvc_camera::StereoCamera	access:private
+uvc_camera::StereoCamera::right_info_pub	include/uvc_camera/stereocamera.h	/^    ros::Publisher left_info_pub, right_info_pub;$/;"	m	class:uvc_camera::StereoCamera	access:private
+uvc_camera::StereoCamera::right_pub	include/uvc_camera/stereocamera.h	/^    image_transport::Publisher left_pub, right_pub;$/;"	m	class:uvc_camera::StereoCamera	access:private
+uvc_camera::StereoCamera::rotate_left	include/uvc_camera/stereocamera.h	/^    bool rotate_left, rotate_right;$/;"	m	class:uvc_camera::StereoCamera	access:private
+uvc_camera::StereoCamera::rotate_right	include/uvc_camera/stereocamera.h	/^    bool rotate_left, rotate_right;$/;"	m	class:uvc_camera::StereoCamera	access:private
+uvc_camera::StereoCamera::sendInfo	include/uvc_camera/stereocamera.h	/^    void sendInfo(ros::Time time);$/;"	p	class:uvc_camera::StereoCamera	access:public	signature:(ros::Time time)
+uvc_camera::StereoCamera::sendInfo	src/stereo.cpp	/^void StereoCamera::sendInfo(ros::Time time) {$/;"	f	class:uvc_camera::StereoCamera	signature:(ros::Time time)
+uvc_camera::StereoCamera::skip_frames	include/uvc_camera/stereocamera.h	/^    int width, height, fps, skip_frames, frames_to_skip;$/;"	m	class:uvc_camera::StereoCamera	access:private
+uvc_camera::StereoCamera::width	include/uvc_camera/stereocamera.h	/^    int width, height, fps, skip_frames, frames_to_skip;$/;"	m	class:uvc_camera::StereoCamera	access:private
+uvc_camera::StereoCamera::~StereoCamera	include/uvc_camera/stereocamera.h	/^    ~StereoCamera();$/;"	p	class:uvc_camera::StereoCamera	access:public	signature:()
+uvc_camera::StereoCamera::~StereoCamera	src/stereo.cpp	/^StereoCamera::~StereoCamera() {$/;"	f	class:uvc_camera::StereoCamera	signature:()
+uvc_camera::StereoNodelet	src/nodelets.cpp	/^class StereoNodelet : public nodelet::Nodelet {$/;"	c	namespace:uvc_camera	file:	inherits:nodelet::Nodelet
+uvc_camera::StereoNodelet::StereoNodelet	src/nodelets.cpp	/^    StereoNodelet() {}$/;"	f	class:uvc_camera::StereoNodelet	access:public	signature:()
+uvc_camera::StereoNodelet::node	src/nodelets.cpp	/^      ros::NodeHandle node = getNodeHandle();$/;"	l
+uvc_camera::StereoNodelet::onInit	src/nodelets.cpp	/^    void onInit() {$/;"	f	class:uvc_camera::StereoNodelet	access:public	signature:()
+uvc_camera::StereoNodelet::pnode	src/nodelets.cpp	/^      ros::NodeHandle pnode = getPrivateNodeHandle();$/;"	l
+uvc_camera::StereoNodelet::stereo	src/nodelets.cpp	/^    StereoCamera *stereo;$/;"	m	class:uvc_camera::StereoNodelet	file:	access:private
+uvc_camera::StereoNodelet::~StereoNodelet	src/nodelets.cpp	/^    ~StereoNodelet() {$/;"	f	class:uvc_camera::StereoNodelet	access:public	signature:()
+uvc_camera::YUYV	src/camera.cpp	/^	std::string YUYV = "YUYV";$/;"	l
+uvc_camera::bytes_used	src/camera.cpp	/^        uint32_t bytes_used;$/;"	l
+uvc_camera::bytes_used_left	src/stereo.cpp	/^    uint32_t bytes_used_left, bytes_used_right;$/;"	l
+uvc_camera::bytes_used_right	src/stereo.cpp	/^    uint32_t bytes_used_left, bytes_used_right;$/;"	l
+uvc_camera::camMode	src/camera.cpp	/^	uvc_cam::Cam::mode_t camMode;$/;"	l
+uvc_camera::capture_time	src/camera.cpp	/^        ros::Time capture_time = ros::Time::now();$/;"	l
+uvc_camera::capture_time	src/stereo.cpp	/^    ros::Time capture_time = ros::Time::now();$/;"	l
+uvc_camera::frame_left	src/stereo.cpp	/^    unsigned char *frame_left = NULL, *frame_right = NULL;$/;"	l
+uvc_camera::frame_right	src/stereo.cpp	/^    unsigned char *frame_left = NULL, *frame_right = NULL;$/;"	l
+uvc_camera::idx	src/camera.cpp	/^        int idx = cam->grab(&img_frame, bytes_used);$/;"	l
+uvc_camera::image	src/camera.cpp	/^             ImagePtr image(new Image);$/;"	p	file:	signature:(new Image)
+uvc_camera::image_left	src/stereo.cpp	/^	ImagePtr image_left(new Image);$/;"	p	file:	signature:(new Image)
+uvc_camera::image_right	src/stereo.cpp	/^	ImagePtr image_right(new Image);$/;"	p	file:	signature:(new Image)
+uvc_camera::img_frame	src/camera.cpp	/^        unsigned char *img_frame = NULL;$/;"	l
+uvc_camera::info	src/camera.cpp	/^      CameraInfoPtr info(new CameraInfo(info_mgr.getCameraInfo()));$/;"	p	file:	signature:(new CameraInfo(info_mgr.getCameraInfo()))
+uvc_camera::info_left	src/stereo.cpp	/^  CameraInfoPtr info_left(new CameraInfo(left_info_mgr.getCameraInfo()));$/;"	p	file:	signature:(new CameraInfo(left_info_mgr.getCameraInfo()))
+uvc_camera::info_right	src/stereo.cpp	/^  CameraInfoPtr info_right(new CameraInfo(right_info_mgr.getCameraInfo()));$/;"	p	file:	signature:(new CameraInfo(right_info_mgr.getCameraInfo()))
+uvc_camera::join	src/camera.cpp	/^      image_thread.join();$/;"	p	file:	signature:()
+uvc_camera::join	src/stereo.cpp	/^  image_thread.join();$/;"	p	file:	signature:()
+uvc_camera::left_idx	src/stereo.cpp	/^    int left_idx = cam_left->grab(&frame_left, bytes_used_left);$/;"	l
+uvc_camera::left_url	src/stereo.cpp	/^  std::string left_url, right_url;$/;"	l
+uvc_camera::loadCameraInfo	src/camera.cpp	/^      info_mgr.loadCameraInfo(url);$/;"	p	file:	signature:(url)
+uvc_camera::loadCameraInfo	src/stereo.cpp	/^  left_info_mgr.loadCameraInfo(left_url);$/;"	p	file:	signature:(left_url)
+uvc_camera::loadCameraInfo	src/stereo.cpp	/^  right_info_mgr.loadCameraInfo(right_url);$/;"	p	file:	signature:(right_url)
+uvc_camera::pair_id	src/camera.cpp	/^      unsigned int pair_id = 0;$/;"	l
+uvc_camera::pair_id	src/stereo.cpp	/^  unsigned int pair_id = 0;$/;"	l
+uvc_camera::publish	src/camera.cpp	/^             pub.publish(image);$/;"	p	file:	signature:(image)
+uvc_camera::publish	src/camera.cpp	/^      info_pub.publish(info);$/;"	p	file:	signature:(info)
+uvc_camera::publish	src/stereo.cpp	/^	left_pub.publish(image_left);$/;"	p	file:	signature:(image_left)
+uvc_camera::publish	src/stereo.cpp	/^	right_pub.publish(image_right);$/;"	p	file:	signature:(image_right)
+uvc_camera::publish	src/stereo.cpp	/^  left_info_pub.publish(info_left);$/;"	p	file:	signature:(info_left)
+uvc_camera::publish	src/stereo.cpp	/^  right_info_pub.publish(info_right);$/;"	p	file:	signature:(info_right)
+uvc_camera::release	src/camera.cpp	/^        if (img_frame) cam->release(idx);$/;"	p	file:	signature:(idx)
+uvc_camera::release	src/stereo.cpp	/^      cam_left->release(left_idx);$/;"	p	file:	signature:(left_idx)
+uvc_camera::release	src/stereo.cpp	/^      cam_right->release(right_idx);$/;"	p	file:	signature:(right_idx)
+uvc_camera::reset	src/camera.cpp	/^        info.reset(new CameraInfo());$/;"	p	file:	signature:(new CameraInfo())
+uvc_camera::right_idx	src/stereo.cpp	/^    int right_idx = cam_right->grab(&frame_right, bytes_used_right);$/;"	l
+uvc_camera::right_url	src/stereo.cpp	/^  std::string left_url, right_url;$/;"	l
+uvc_camera::url	src/camera.cpp	/^      std::string url;$/;"	l
+v4l2_cap	src/uvc_cam.cpp	/^  struct v4l2_capability v4l2_cap;$/;"	l
+v4l2_uvc_exposure_auto_type	include/uvc_cam/uvc_cam.h	/^enum v4l2_uvc_exposure_auto_type$/;"	g	namespace:uvc_cam
+v4l_dev_path	src/uvc_cam.cpp	/^    string v4l_dev_path = v4l_path + string("\/") + string(ent->d_name) +$/;"	l
+v4l_path	src/uvc_cam.cpp	/^  string v4l_path = "\/sys\/class\/video4linux";$/;"	l
+ver	src/uvc_cam.cpp	/^    char vid[5], pid[5], ver[5];$/;"	l
+ver_fname	src/uvc_cam.cpp	/^    string ver_fname = v4l_dev_path + string("\/") + input_dir +$/;"	l
+ver_fp	src/uvc_cam.cpp	/^    FILE *ver_fp = fopen(ver_fname.c_str(), "r");$/;"	l
+vid	src/uvc_cam.cpp	/^    char vid[5], pid[5], ver[5];$/;"	l
+vid_fname	src/uvc_cam.cpp	/^    string vid_fname = v4l_dev_path + string("\/") + input_dir +$/;"	l
+vid_fp	src/uvc_cam.cpp	/^    FILE *vid_fp = fopen(vid_fname.c_str(), "r");$/;"	l
+whiteBalanceTemp	include/uvc_cam/uvc_cam.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1mode, led1Freq, saturation, focus; $/;"	m	class:uvc_cam::Cam	access:private
+whiteBalanceTemp	include/uvc_camera/camera.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1Mode, led1Freq, saturation, focus;$/;"	m	class:uvc_camera::Camera	access:private
+whiteBalanceTempAuto	include/uvc_cam/uvc_cam.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1mode, led1Freq, saturation, focus; $/;"	m	class:uvc_cam::Cam	access:private
+whiteBalanceTempAuto	include/uvc_camera/camera.h	/^	int autoPriority, autoExposure, brightness, contrast, whiteBalanceTempAuto, whiteBalanceTemp, powerFreq, gain, sharpness, blacklightCompen, absolute, led1Mode, led1Freq, saturation, focus;$/;"	m	class:uvc_camera::Camera	access:private
+width	include/uvc_cam/uvc_cam.h	/^  unsigned width, height, fps;$/;"	m	class:uvc_cam::Cam	access:private
+width	include/uvc_camera/camera.h	/^    int width, height, fps, skip_frames, frames_to_skip;$/;"	m	class:uvc_camera::Camera	access:private
+width	include/uvc_camera/stereocamera.h	/^    int width, height, fps, skip_frames, frames_to_skip;$/;"	m	class:uvc_camera::StereoCamera	access:private
+~Cam	include/uvc_cam/uvc_cam.h	/^  ~Cam();$/;"	p	class:uvc_cam::Cam	access:public	signature:()
+~Cam	src/uvc_cam.cpp	/^Cam::~Cam()$/;"	f	class:Cam	signature:()
+~Camera	include/uvc_camera/camera.h	/^    ~Camera();$/;"	p	class:uvc_camera::Camera	access:public	signature:()
+~Camera	src/camera.cpp	/^    Camera::~Camera() {$/;"	f	class:uvc_camera::Camera	signature:()
+~CameraNodelet	src/nodelets.cpp	/^    ~CameraNodelet() {$/;"	f	class:uvc_camera::CameraNodelet	access:public	signature:()
+~StereoCamera	include/uvc_camera/stereocamera.h	/^    ~StereoCamera();$/;"	p	class:uvc_camera::StereoCamera	access:public	signature:()
+~StereoCamera	src/stereo.cpp	/^StereoCamera::~StereoCamera() {$/;"	f	class:uvc_camera::StereoCamera	signature:()
+~StereoNodelet	src/nodelets.cpp	/^    ~StereoNodelet() {$/;"	f	class:uvc_camera::StereoNodelet	access:public	signature:()
